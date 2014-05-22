@@ -1,0 +1,10 @@
+createEnemy hobbit
+buildTower 25
+listTowers
+listRoads
+move JOBB
+shoot OFF OFF
+listEnemies
+shoot ON OFF
+listEnemies
+

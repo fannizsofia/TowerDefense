@@ -1,0 +1,11 @@
+createEnemy hobbit
+listEnemies
+buildTower 6
+simulate
+listEnemies
+listTowers
+buyGem damageIncreaser
+gemToTower damageIncreaser 1
+listTowers
+simulate
+listEnemies

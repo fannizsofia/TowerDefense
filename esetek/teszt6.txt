@@ -1,0 +1,14 @@
+buildTower 6
+buildTrap 1
+buyGem damageIncreaser
+buyGem movementDecreaser
+listInventory
+gemToTower damageIncreaser 1
+listInventory
+listTowers
+gemToTrap 1
+listInventory
+listRoads
+removeGem 1
+listInventory
+listTowers

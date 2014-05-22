@@ -1,0 +1,5 @@
+createEnemy dwarf
+listMap
+listRoads
+move JOBB
+move
